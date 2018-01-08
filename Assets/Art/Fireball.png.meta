@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: a1e7379aa0eb12544b455e8cdd4a8c8f
+timeCreated: 1476044611
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fireball0
+    21300002: Fireball2
+    21300004: Fireball4
+    21300006: Fireball1
+    21300008: Fireball3
+    21300010: Fireball5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Fireball0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 668
+        width: 175
+        height: 72
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: -4}
+        - {x: 74, y: -13}
+        - {x: 72, y: -18}
+        - {x: 90, y: -23}
+        - {x: 124, y: -22}
+        - {x: 138, y: 2}
+        - {x: 138, y: 25}
+        - {x: 89, y: 36}
+        - {x: 36, y: 36}
+        - {x: 18, y: 33}
+        - {x: 0, y: 20}
+        - {x: 0, y: -27}
+        - {x: 8, y: -36}
+        - {x: 55, y: -36}
+        - {x: 66, y: -26}
+        - {x: 75, y: -6}
+        - {x: 78, y: -3}
+      - - {x: 140, y: 9}
+        - {x: 133, y: 8}
+        - {x: 118, y: -3}
+        - {x: 118, y: -12}
+        - {x: 120, y: -15}
+        - {x: 171, y: -15}
+        - {x: 175, y: -3}
+        - {x: 175, y: 9}
+    - name: Fireball2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 668
+        width: 204
+        height: 64
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: -7}
+        - {x: 110, y: -6}
+        - {x: 112, y: -7}
+        - {x: 114, y: -7}
+        - {x: 114, y: -9}
+        - {x: 116, y: -11}
+        - {x: 124, y: -11}
+        - {x: 127, y: -10}
+        - {x: 149, y: -17}
+        - {x: 204, y: -20}
+        - {x: 204, y: 15}
+        - {x: 118, y: 32}
+        - {x: 5, y: 32}
+        - {x: 0, y: 25}
+        - {x: 0, y: -32}
+        - {x: 115, y: -32}
+        - {x: 116, y: -22}
+        - {x: 114, y: -9}
+        - {x: 112, y: -7}
+    - name: Fireball4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 668
+        width: 188
+        height: 64
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: 1, y: 27}
+        - {x: 0, y: 23}
+        - {x: 0, y: -26}
+        - {x: 4, y: -32}
+        - {x: 103, y: -32}
+        - {x: 146, y: -22}
+        - {x: 146, y: 16}
+        - {x: 100, y: 32}
+      - - {x: 152, y: 13}
+        - {x: 147, y: 11}
+        - {x: 146, y: 6}
+        - {x: 146, y: -15}
+        - {x: 165, y: -15}
+        - {x: 188, y: -7}
+        - {x: 188, y: 13}
+    - name: Fireball1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 584
+        width: 192
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -34}
+        - {x: 128, y: -34}
+        - {x: 192, y: -28}
+        - {x: 192, y: -1}
+        - {x: 186, y: 10}
+        - {x: 115, y: 34}
+        - {x: 29, y: 34}
+        - {x: 0, y: 22}
+      - - {x: 128, y: 27}
+        - {x: 126, y: 25}
+        - {x: 126, y: 17}
+        - {x: 128, y: 15}
+        - {x: 140, y: 15}
+        - {x: 142, y: 17}
+        - {x: 142, y: 25}
+        - {x: 140, y: 27}
+    - name: Fireball3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 583
+        width: 192
+        height: 60
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: 30}
+        - {x: 1, y: 30}
+        - {x: 0, y: 26}
+        - {x: 0, y: -28}
+        - {x: 3, y: -30}
+        - {x: 70, y: -30}
+        - {x: 147, y: -18}
+        - {x: 147, y: 2}
+        - {x: 132, y: 20}
+      - - {x: 177, y: 16}
+        - {x: 163, y: 16}
+        - {x: 147, y: 9}
+        - {x: 147, y: -12}
+        - {x: 185, y: -12}
+        - {x: 191, y: -5}
+        - {x: 191, y: 7}
+        - {x: 190, y: 10}
+    - name: Fireball5
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 583
+        width: 204
+        height: 60
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 30}
+        - {x: 0, y: -30}
+        - {x: 134, y: -30}
+        - {x: 150, y: -27}
+        - {x: 150, y: 15}
+        - {x: 137, y: 30}
+      - - {x: 154, y: 8}
+        - {x: 150, y: 7}
+        - {x: 150, y: -4}
+        - {x: 170, y: -16}
+        - {x: 204, y: -16}
+        - {x: 204, y: -1}
+        - {x: 197, y: 8}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

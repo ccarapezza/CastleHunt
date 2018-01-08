@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: 2ed6a459f2686aa44802bbb0193118a9
+timeCreated: 1475447221
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Door1
+    21300002: Door2
+    21300004: Door3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Door1
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 962
+        width: 87
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.479248, y: 99.87494}
+        - {x: -33.479248, y: 85.87494}
+        - {x: -33.479248, y: -0.12506104}
+        - {x: 34.520752, y: -0.12506104}
+        - {x: 34.520752, y: 88.87494}
+        - {x: 15.520752, y: 99.87494}
+    - name: Door2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 384
+        width: 51
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.375, y: 63.604156}
+        - {x: -19.375, y: 58.604156}
+        - {x: -19.375, y: -0.3958435}
+        - {x: 20.625, y: -0.3958435}
+        - {x: 20.625, y: 52.604156}
+        - {x: 13.625, y: 63.604156}
+    - name: Door3
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 64
+        width: 52
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.208374, y: 63.05208}
+        - {x: -20.208374, y: 55.05208}
+        - {x: -20.208374, y: 0.052078247}
+        - {x: 20.791626, y: 0.052078247}
+        - {x: 20.791626, y: 54.05208}
+        - {x: 14.791626, y: 63.05208}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

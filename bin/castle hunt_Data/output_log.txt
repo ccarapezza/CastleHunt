@@ -1,0 +1,56 @@
+Initialize engine version: 5.5.4f1 (8ffd0efd98b1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R9 380 Series (ID=0x6939)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   23.20.15007.1005
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Chori\Documents\CastleHunt\CastleHunt\bin\castle hunt_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Chori\Documents\CastleHunt\CastleHunt\bin\castle hunt_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Chori\Documents\CastleHunt\CastleHunt\bin\castle hunt_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Chori\Documents\CastleHunt\CastleHunt\bin\castle hunt_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Chori\Documents\CastleHunt\CastleHunt\bin\castle hunt_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Chori\Documents\CastleHunt\CastleHunt\bin\castle hunt_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Chori\Documents\CastleHunt\CastleHunt\bin\castle hunt_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Chori\Documents\CastleHunt\CastleHunt\bin\castle hunt_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Chori\Documents\CastleHunt\CastleHunt\bin\castle hunt_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Chori\Documents\CastleHunt\CastleHunt\bin\castle hunt_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.090 seconds
+Platform assembly: C:\Users\Chori\Documents\CastleHunt\CastleHunt\bin\castle hunt_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Chori\Documents\CastleHunt\CastleHunt\bin\castle hunt_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3968x1202 at -2048,-122
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.195310 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.520571 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 735.
+Total: 0.395463 ms (FindLiveObjects: 0.065231 ms CreateObjectMapping: 0.033889 ms MarkObjects: 0.252515 ms  DeleteObjects: 0.042553 ms)
+
+Null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.078352 ms
+
+Unloading 440 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.633710 ms (FindLiveObjects: 0.084087 ms CreateObjectMapping: 0.097337 ms MarkObjects: 0.303987 ms  DeleteObjects: 0.147024 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.490762 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 735.
+Total: 0.536373 ms (FindLiveObjects: 0.075168 ms CreateObjectMapping: 0.093769 ms MarkObjects: 0.345521 ms  DeleteObjects: 0.020384 ms)
+
+Null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3310 -> priority: 1 
+  Thread -> id: 2864 -> priority: 1 

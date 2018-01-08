@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 8bc622cba463fb74291cbdf5f6694191
+timeCreated: 1480220873
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lever_0
+    21300002: lever_1
+    21300004: lever_2
+    21300006: lever_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lever_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 47
+        height: 32
+      alignment: 9
+      pivot: {x: 0.73, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.310001, y: 15.8}
+        - {x: -16.310001, y: -3.1999998}
+        - {x: 12.689999, y: -3.1999998}
+        - {x: 12.689999, y: 10.8}
+        - {x: 6.6899986, y: 24.8}
+        - {x: -10.310001, y: 28.8}
+        - {x: -34.31, y: 28.8}
+        - {x: -34.31, y: 19.8}
+    - name: lever_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 31
+        height: 44
+      alignment: 9
+      pivot: {x: 0.56, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+        - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+      - - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+    - name: lever_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 12
+        width: 34
+        height: 43
+      alignment: 9
+      pivot: {x: 0.41, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.0599976, y: 39.989998}
+        - {x: -1.9400024, y: 34.989998}
+        - {x: -13.940002, y: 12.99}
+        - {x: -13.940002, y: -3.0100002}
+        - {x: 16.059998, y: -3.0100002}
+        - {x: 20.059998, y: 7.99}
+        - {x: 20.059998, y: 39.989998}
+    - name: lever_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 12
+        width: 48
+        height: 31
+      alignment: 9
+      pivot: {x: 0.31, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+        - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+        - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+        - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+      - - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+        - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+        - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+      - - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+        - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+      - - {x: 12.5, y: 2.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 18.5, y: 0.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
